@@ -1,0 +1,501 @@
+﻿id,mesaj,etiket
+1,ATM para sayma itirazı hangi kanaldan oluşturulur?,destek
+2,Üç kez aramama rağmen aynı sorunu baştan anlatmak zorunda kaldım.,şikayet
+3,Taksitli harcamaların kalan borcunu hangi ekrandan görürüm?,destek
+4,"Uygulama erişilebilirlik özelliğini bozmuş, ekran okuyucu ile kullanamıyorum.",şikayet
+5,"Akaryakıt indirimi gerçekten işe yaradı, kampanyayı beğendim.",memnuniyet
+6,"Para çekme sırasında cihaz hata verdi, tutar bakiyemden düştü.",şikayet
+7,"Yeni banka kartım hızlı teslim edildi, teşekkür ederim.",memnuniyet
+8,Kredi sigortası poliçesini hangi ekrandan görüntülerim?,destek
+9,Fon portföyümün toplam getirisini hangi ekranda görebilirim?,destek
+10,"Yurt dışında kartımla rahatça ödeme yaptım, hiç sorun yaşamadım.",memnuniyet
+11,Seyahat için kart ayarlarını uygulamadan yapmak çok kullanışlı.,memnuniyet
+12,Altın hesabı açmak için ayrıca sözleşme gerekiyor mu?,destek
+13,Sanal POS başvurusu online yapılabiliyor mu?,destek
+14,"Kart limitim talebim dışında düşürüldü, nedenini kimse söylemiyor.",şikayet
+15,POS komisyonlarını açıkça görmek planlama yapmamı sağlıyor.,memnuniyet
+16,İkamet adresimi uygulama üzerinden güncellemek istiyorum.,destek
+17,Yeni banka kartım haftalardır teslim edilmedi; kargo takibi de çalışmıyor.,şikayet
+18,"Ekstre indirimi otomatik yansıtıldı, uğraşmam gerekmedi.",memnuniyet
+19,Yabancı para işlemine beklediğimden çok daha yüksek kur uygulanmış.,şikayet
+20,"Taksit seçenekleri ekranda gayet anlaşılır gösterilmiş, beğendim.",memnuniyet
+21,Kredi ödeme planımı mobil uygulamadan indirebilir miyim?,destek
+22,Kartsız para çekme kodum geçersiz sayıldı ama işlem ücreti alındı.,şikayet
+23,Borç transferi kampanyasına katılım koşullarını öğrenebilir miyim?,destek
+24,"Adres güncelleme talebim sistemde görünmüyor, her seferinde tekrar ediyorum.",şikayet
+25,İhtiyaç kredisi başvurusu için gelir belgesi gerekiyor mu?,destek
+26,"ATM'de yaşadığım sorunu aynı gün çözdünüz, teşekkürler.",memnuniyet
+27,Kurumsal internet şubesindeki raporlar gerçekten anlaşılır.,memnuniyet
+28,Kartsız işlem seçeneği acil nakit ihtiyacımda çok işime yaradı.,memnuniyet
+29,"Hesap açılışında belgelerimi verdim, yine de başvurum tamamlanmadı.",şikayet
+30,ATM'den günlük ne kadar nakit çekebilirim?,destek
+31,"Taksitlendirme işlemim onaylanmadan borç tutarım artmış, itiraz ediyorum.",şikayet
+32,FAST işleminin durumunu uygulama dışında kontrol edebileceğim kanal var mı?,destek
+33,Kredimi erken kapatırsam hesaplama nasıl yapılıyor?,destek
+34,"Bakiye ekranındaki tutarla hesap hareketleri uyuşmuyor, güvenim sarsıldı.",şikayet
+35,"Şubede sıra almama rağmen saatlerce bekledim, kimse ilgilenmedi.",şikayet
+36,Kredi başvuru sonucunu anında öğrenebilmek çok iyi.,memnuniyet
+37,"Yurt içi havalemden iki ayrı komisyon çekilmiş, derhal inceleyin.",şikayet
+38,"QR ile ödeme yaparken sürekli hata alıyorum, çok can sıkıcı.",şikayet
+39,"Kart kaybı bildirimim sonrasında anında bloke işlemi yapıldı, sağ olun.",memnuniyet
+40,"Mevcut kredim için ara ödeme yapmak istiyorum, nasıl ilerlemeliyim?",destek
+41,"Döviz alış satış makası aşırı açılmış, işlem sırasında mağdur oldum.",şikayet
+42,"Altın hesabını birkaç adımda açabildim, çok pratik.",memnuniyet
+43,"Yeni telefona geçişte cihaz doğrulaması sorunsuz ilerledi, memnunum.",memnuniyet
+44,Yatırım hesabı açılışı için gerekli belgeleri söyleyebilir misiniz?,destek
+45,"Euro hesabımdan başka bankaya euro göndermek istiyorum, nasıl yapılır?",destek
+46,"E-posta ekstrelerim düzenli geliyor, takip etmesi kolay.",memnuniyet
+47,"Elektrik faturam otomatik ödendi, hiçbir şeyi takip etmek zorunda kalmadım.",memnuniyet
+48,Hafta sonu para transferini hızlıca yapabilmek büyük rahatlık.,memnuniyet
+49,Görme engelliler için sesli ATM hizmeti hangi noktalarda bulunuyor?,destek
+50,Şüpheli işlem gördüğümde itiraz süreci nasıl işliyor?,destek
+51,"Telefon numaram değişti, doğrulama kodu hâlâ eski numaraya gidiyor.",şikayet
+52,"Şubede sıra beklemeden işlemi bitirdim, hizmet harikaydı.",memnuniyet
+53,Limit uyarıları harcamalarımı kontrol etmemde yardımcı oluyor.,memnuniyet
+54,"Dijital hesap diye açtım, sonradan masraf çıkmasına çok sinirlendim.",şikayet
+55,"Sanal POS başvurum kolay ilerledi, ekibe teşekkür ederim.",memnuniyet
+56,Geri arama talebi oluşturmak için hangi numarayı kullanmalıyım?,destek
+57,"Aynı faturayı iki kez tahsil etmişsiniz, paramı geri istiyorum.",şikayet
+58,"Açtığım destek kaydı kısa sürede kapandı, çözümden memnunum.",memnuniyet
+59,"Yenilenen kartım zamanında geldi, hiç aksaklık yaşamadım.",memnuniyet
+60,"Gece gittiğim üç ATM de hizmet dışıydı, gerçekten bıktım.",şikayet
+61,Akaryakıt kampanyasına SMS ile mi yoksa uygulamadan mı katılıyoruz?,destek
+62,Geçmiş dönem su faturası dekontlarını nereden çıkarabilirim?,destek
+63,Yakınımdaki para yatırma özellikli ATM'leri nereden görebilirim?,destek
+64,"Kredi kartı limit değişikliği talebim hızla sonuçlandı, sağ olun.",memnuniyet
+65,Yaptığım alışverişin dekontunu nereden indirebilirim?,destek
+66,Birikim hesabına düzenli transfer talimatı eklemek istiyorum.,destek
+67,Kredi kartı işlemleri için gelen güvenlik bildirimlerini takdir ediyorum.,memnuniyet
+68,Uzaktan müşteri olmak için çipli kimlik kartı şart mı?,destek
+69,Asgari ödeme tutarını nasıl hesaplayabilirim?,destek
+70,Adres değişikliğimi mobil bankacılıktan yapabilmek çok güzel.,memnuniyet
+71,ATM'nin alıkoyduğu kart için nasıl başvuru açılıyor?,destek
+72,Şirket kartım limit yetersizliği uyarısı veriyor ama limitim mevcut.,şikayet
+73,"Kart teslimat takibi ayrıntılı ve güncel, beğendim.",memnuniyet
+74,Vadesiz hesabımdan gerekçesiz işletim ücreti kesilmesi kabul edilemez.,şikayet
+75,Müşteri temsilcisi yanlış yönlendirdiği için işlemim gecikti.,şikayet
+76,Sanal kartın limitini anında düzenlemek çok işe yarıyor.,memnuniyet
+77,"İptal ettiğim alışverişin iadesi aynı gün kartıma geçti, teşekkürler.",memnuniyet
+78,Fon portföy değerim güncel değil ve bunun için kimse yardımcı olmuyor.,şikayet
+79,Çağrı merkezindeki temsilci çok nazikti ve sorumu hemen çözdü.,memnuniyet
+80,Bakiye için otomatik bildirim nasıl tanımlanıyor?,destek
+81,Kayıtlı alıcı özelliği transferlerde ciddi zaman kazandırıyor.,memnuniyet
+82,Kampanya ödülünü kullanmak için son tarih nerede gösteriliyor?,destek
+83,Swift işlemi için alıcı adresi girmek gerekiyor mu?,destek
+84,Vadeli hesabımın faiz getirisi söz verilen tutardan düşük yatırıldı.,şikayet
+85,Uygulama içindeki yardım alanı sorularımı kolayca çözdü.,memnuniyet
+86,"Mobil uygulama hızlı açılıyor, bütün işlemleri rahatlıkla yapıyorum.",memnuniyet
+87,Şubeden sıra almak için online randevu sistemi var mı?,destek
+88,"Kart bilgilerim çalındı, yeni kartın gönderimi sürekli erteleniyor.",şikayet
+89,"İşlem iptal edilmesine rağmen kullanılabilir limitim açılmadı, bıktım artık.",şikayet
+90,Döviz hesabımdaki işlem dökümü çok düzenli sunulmuş.,memnuniyet
+91,İşletme hesabının işlem ücretleri hangi sayfada listeleniyor?,destek
+92,"Yetkisiz para çıkışı yaşadım, banka konuyu yeterince ciddiye almıyor.",şikayet
+93,"POS cihazı ödemeyi reddetti, buna rağmen bekleyen provizyon günlerdir duruyor.",şikayet
+94,"Kredi kartı ekstresi anlaşılır hazırlanmış, tüm kalemleri rahatça gördüm.",memnuniyet
+95,FAST işlem durumu açıkça gösterildiği için hiç tereddüt yaşamadım.,memnuniyet
+96,Mobil hat faturası ödeme limitleri hakkında bilgi alabilir miyim?,destek
+97,Kart teslimat adresimi nereden güncelleyebilirim?,destek
+98,"Konut kredisi sürecinde temsilcim her aşamada bilgilendirdi, sağ olsun.",memnuniyet
+99,"Borç ve kullanılabilir limit bilgileri çok net, uygulamanız başarılı.",memnuniyet
+100,"Temassız işlemde hata verdi ama hesabımdan para eksildi, mağdur oldum.",şikayet
+101,İşletme kartına birden fazla kullanıcı tanımlayabilir miyim?,destek
+102,"Hesap kapatma talebim hızla yerine getirildi, teşekkür ederim.",memnuniyet
+103,Kampanya sayfasında yazmayan koşul sonradan önüme çıkarıldı.,şikayet
+104,POS komisyon oranlarımı görüntülemek için hangi menüyü kullanmalıyım?,destek
+105,"Ticari kredi taksit planım hatalı düzenlendi, muhasebem karıştı.",şikayet
+106,POS harcamasının hangi iş yerinde yapıldığını nereden görebilirim?,destek
+107,"SWIFT transferimin durumunu adım adım izleyebildim, çok faydalı.",memnuniyet
+108,"Online alışverişte doğrulama aşaması pratikti, güven verdi.",memnuniyet
+109,Kampanya şartlarının açık yazılması seçimimi kolaylaştırdı.,memnuniyet
+110,"Fon alımımın valör tarihi net gösterildi, bilgilendirme başarılı.",memnuniyet
+111,"Harcama ödülüm yanlış hesaplanmış, düzeltme yapılmıyor.",şikayet
+112,"ATM'den aldığım paranın bir kısmı eksikti, başvurum hâlâ sonuçlanmadı.",şikayet
+113,Kredi taksit tarihini maaş günüme göre değiştirebilir miyim?,destek
+114,Yurt dışında kart kullanımı öncesinde ayar açmam gerekir mi?,destek
+115,Kredi başvurusu sonucunu nereden sorgulayabilirim?,destek
+116,Fatura ödemesi dekontu yanlış abone numarası gösteriyor.,şikayet
+117,Açtığım başvurunun takip numarasını nereden bulurum?,destek
+118,Akaryakıt kampanyası için verilen bilgi gerçeği yansıtmıyormuş.,şikayet
+119,"QR kodla para çekmek istiyorum, adımları söyler misiniz?",destek
+120,Güvenlik nedeniyle bloke edilmiş kartın yeniden açılması için ne gerekiyor?,destek
+121,Kartımla internetten alışveriş yapabilmek için hangi ayarı açmam gerekiyor?,destek
+122,Dolandırıcılık bildirimimden sonra kartım zamanında bloke edilmedi.,şikayet
+123,Günlük para transferi limitimi yükseltmek için başvuru yapmak istiyorum.,destek
+124,İndirim kampanyası kasada çalışmadı; boşuna kartınızı kullandım.,şikayet
+125,"Taşıt kredisi için söylenen oran son aşamada artırıldı, haksızlık bu.",şikayet
+126,Yurt dışı alışveriş iadem kur farkıyla eksik yatırılmış.,şikayet
+127,Gönderdiğim havalenin referans numarasını nereden bulabilirim?,destek
+128,"Mobil bankacılık aşırı yavaşladı, basit bir ödeme bile dakikalar sürüyor.",şikayet
+129,"Sanal kartım kapalı olduğu hâlde işlem denenmiş, bilgilendirme yetersiz.",şikayet
+130,Uygulama içi canlı destek hangi saatlerde hizmet veriyor?,destek
+131,Seyahat bildirimini mobil uygulamadan tanımlamak mümkün mü?,destek
+132,Kampanyaya katılımım uygulamada görünmediği için hakkımı kaybettim.,şikayet
+133,Bir alışverişin iadesi karta ne kadar sürede yansır?,destek
+134,İnternetten yaptığım ödemeyi taksite çevirmek için nasıl başvurulur?,destek
+135,Düzenli transfer emrim iki kez uygulanmış; hesabım eksiye düştü.,şikayet
+136,Kredi kartı puanları hangi iş yerlerinde kullanılabiliyor?,destek
+137,Euro hesabımdan para transferi beklediğimden hızlı tamamlandı.,memnuniyet
+138,"Taksit tarihim kolayca değiştirildi, çözüm için teşekkür ederim.",memnuniyet
+139,"Hesap bildirimlerini açtım, işlem uyarıları hâlâ gelmiyor.",şikayet
+140,Kredi sigortası belgelerine uygulamadan ulaşmak zaman kazandırdı.,memnuniyet
+141,Ticari hesabımızdaki hareketleri anlık takip etmek çok rahat.,memnuniyet
+142,Ek kart başvurusu için hangi şartlar aranıyor?,destek
+143,Kartımda şüpheli işlem gördüm ama itirazımı günlerdir incelemiyorsunuz.,şikayet
+144,"Randevulu gittiğim şube kapalıydı, boşuna yol yaptım.",şikayet
+145,Vade bitiş bildirimlerinin zamanında gelmesinden memnunum.,memnuniyet
+146,İnternet alışverişi yetkisini anında açıp kapatabilmek çok iyi.,memnuniyet
+147,Düzenli para gönderme talimatı kusursuz çalışıyor.,memnuniyet
+148,Kaybolan kartımı en hızlı hangi kanaldan bloke edebilirim?,destek
+149,Ek kart harcamaları ana kart ekstresinde hatalı görünüyor.,şikayet
+150,Taksitimi zamanında yatırdım fakat sistem gecikmiş gösteriyor.,şikayet
+151,Yabancı para hesaplarım arasında transfer yapabilir miyim?,destek
+152,Maaş hesabımdan alınan işlem bedeli sözleşmede belirtilmemişti.,şikayet
+153,Hesap güvenliği hakkında farklı birimlerden çelişkili yanıtlar aldım.,şikayet
+154,Yeni müşteri karşılama ekranı sade ve anlaşılırdı.,memnuniyet
+155,Mobil hat faturamı ödememe rağmen borç açık görünüyor.,şikayet
+156,"Telefon numaramı kısa sürede güncelledim, işlem oldukça kolaydı.",memnuniyet
+157,Düzenli kira transferini her ayın ilk iş gününe ayarlayabilir miyim?,destek
+158,Gün sonu raporlarının otomatik gelmesi çok kullanışlı.,memnuniyet
+159,Hesap güvenliği konusunda gelen uyarılar gerçekten yararlı.,memnuniyet
+160,Kredi oranları ve toplam maliyetin açıkça verilmesini beğendim.,memnuniyet
+161,Kredi kartı puanlarımın son kullanma tarihini nerede görürüm?,destek
+162,Uluslararası para transferinin tahmini süresini öğrenebilir miyim?,destek
+163,Hesap açarken ücretlerin açık gösterilmesi güven oluşturdu.,memnuniyet
+164,"Kart itirazım beklediğimden hızlı çözüldü, ilginiz için sağ olun.",memnuniyet
+165,"Ekstre kesim tarihi haber verilmeden değişmiş, bütçem altüst oldu.",şikayet
+166,Şube çalışanlarının güler yüzlü yaklaşımı günümü güzelleştirdi.,memnuniyet
+167,Kartsız para yatırma işlemi için hangi bilgiler gerekiyor?,destek
+168,"Yakınımdaki para yatırma ATM'sini kolayca buldum, uygulama başarılı.",memnuniyet
+169,E-posta adresimi değiştirdiğimde tekrar onay gerekiyor mu?,destek
+170,"Nakit avans faizi tarafıma yanlış yansıtılmış, düzeltilmesini istiyorum.",şikayet
+171,"Düzenli kira transferi tam belirlediğim gün yapıldı, harika.",memnuniyet
+172,Hafta sonu açık olan şubeleri nasıl öğrenebilirim?,destek
+173,Kredi kartı yıllık aidatı yine kesilmiş; iptal talebim dikkate alınmadı.,şikayet
+174,"QR ödeme işlemi çok seri, kullanmayı sevdim.",memnuniyet
+175,Yurt içi alışverişler için kartımı geçici olarak nasıl kapatabilirim?,destek
+176,"Kart borcumu uygulamadan kolayca ödedim, teşekkürler.",memnuniyet
+177,İki aşamalı doğrulamayı hesabım için nasıl açarım?,destek
+178,Kurumsal internet şubesi için yeni yetkili kullanıcı eklemem gerekiyor.,destek
+179,"Yanlış hesaba giden transfer için başvurdum, haftalardır dönüş yok.",şikayet
+180,Taşıt kredisi başvurusu dijital kanaldan tamamlanabilir mi?,destek
+181,"Alışveriş kampanyasının puanları söz verilen gün yüklendi, teşekkürler.",memnuniyet
+182,Güvenli cihazlar listesinden eski telefonumu kaldırmak istiyorum.,destek
+183,Hesabımdaki blokeyi kaldırmak için haftalardır uğraşıyorum.,şikayet
+184,"Anlık bildirimler tam zamanında geliyor, oldukça faydalı.",memnuniyet
+185,"İki aşamalı doğrulama kurulumu anlaşılırdı, artık daha rahatım.",memnuniyet
+186,Uygulamadaki küçük yazılar yüzünden işlemleri okumak imkânsız.,şikayet
+187,Çağrı merkezinde İngilizce destek alabiliyor muyum?,destek
+188,Geçmiş yıllara ait dekontlar kaç yıl erişilebilir kalıyor?,destek
+189,Telefonum çalınırsa mobil bankacılık erişimini nasıl durdururum?,destek
+190,Kayıtlı faturalarıma yeni abone numarası eklemek istiyorum.,destek
+191,"Şifre yenilemeyi iki dakikada bitirdim, çok başarılı bir deneyimdi.",memnuniyet
+192,İhtiyaç kredimin erken ödeme masrafı beklediğimden çok yüksek çıktı.,şikayet
+193,"Kart aktivasyonunu birkaç adımda bitirdim, harika.",memnuniyet
+194,Taşıt kredisi için evrak yüklemek oldukça pratikti.,memnuniyet
+195,"Benden habersiz ek hesap faizi işlemiş, bu ücrete itiraz ediyorum.",şikayet
+196,ATM erişim alanı düzenli ve güvenli hissettirdi.,memnuniyet
+197,Seyahat sırasında gelen işlem bildirimleri çok işime yaradı.,memnuniyet
+198,Ekstreyi e-posta yerine mobil bildirim olarak almak mümkün mü?,destek
+199,Para gönderirken alıcı adı kontrolü yapılması güven verici.,memnuniyet
+200,Geçmiş dekontları tek aramayla bulmak çok pratik.,memnuniyet
+201,Hesap hareketlerini belirli tarih aralığı için PDF olarak alabilir miyim?,destek
+202,"Promosyon ödemesi belirtilen tarihte yapılmadı, şikâyetçiyim.",şikayet
+203,Su faturam son gün ödenmediği için gecikme bedeli çıktı.,şikayet
+204,"Kimlik doğrulama görüşmesi defalarca düştü, saatlerim boşa gitti.",şikayet
+205,Bireysel müşteri temsilcimi uygulamadan görebilir miyim?,destek
+206,"POS cihazı sürekli bağlantı kesiyor, müşterilerimi kaybediyorum.",şikayet
+207,Vadesiz hesap açmak için şubeye gelmek zorunda mıyım?,destek
+208,"Fatura ödeme komisyonu işlem bitince ortaya çıktı, şeffaf değil.",şikayet
+209,Mobil uygulamanın desteklediği işletim sistemi sürümlerini öğrenebilir miyim?,destek
+210,E-devlet üzerinden açılan başvuru bankada hiç görünmüyor.,şikayet
+211,Yanlış IBAN'a havale gönderirsem nasıl iptal başvurusu yaparım?,destek
+212,"Kartımla markette ödeme yaptım, tutar iki kez çekilmiş; hâlâ düzeltilmedi.",şikayet
+213,SWIFT transferi yapmak için BIC kodu zorunlu mu?,destek
+214,Mobil uygulamada yazı boyutunu büyütme seçeneği var mı?,destek
+215,"Su faturası dekontuna kolayca ulaştım, teşekkür ederim.",memnuniyet
+216,"Kartım her akşam belli saatten sonra çalışmıyor, defalarca şikâyet ettim.",şikayet
+217,Başka bankaya EFT göndermek için son işlem saati nedir?,destek
+218,Parmak iziyle giriş ayarını hangi ekrandan aktif edebilirim?,destek
+219,"Asgari ödeme tutarım yanlış hesaplanmış, müşteri temsilcisi de açıklayamıyor.",şikayet
+220,Kartım olmadan bankamatikten bakiye sorgulayabilir miyim?,destek
+221,Şifre değişikliği sonrası diğer cihazlardaki oturumlar kapanıyor mu?,destek
+222,"Ek hesapla ilgili bilgilendirmeler açık ve zamanında yapıldı, memnunum.",memnuniyet
+223,Uluslararası havale için yapılan bilgilendirme çok yeterliydi.,memnuniyet
+224,Ortak hesap açılışı için iki kişinin de şubede olması gerekiyor mu?,destek
+225,"Ek kart başvurum kısa sürede onaylandı, süreçten memnun kaldım.",memnuniyet
+226,"İşletme POS tahsilatları düzenli yatıyor, hizmetten memnunuz.",memnuniyet
+227,Kartımı teslim aldım fakat aktivasyon saatlerdir tamamlanmıyor.,şikayet
+228,Promosyon ödemesinin hangi tarihte yatacağını öğrenebilir miyim?,destek
+229,Arkadaşını davet et programına nasıl katılım sağlanıyor?,destek
+230,EFT iptal talebim işleme alınmadığı için maddi kayıp yaşıyorum.,şikayet
+231,Taksitli alışverişler için kalan borcun ayrı gösterilmesi çok kullanışlı.,memnuniyet
+232,Şirket kartları için yetki tanımlamak çok pratik olmuş.,memnuniyet
+233,Fatura ödeme tarihi yaklaştığında hatırlatma bildirimi açılabiliyor mu?,destek
+234,Kampanya koşullarını sağladığım hâlde puanlarım yüklenmedi.,şikayet
+235,"Mobil uygulama her girişte kapanıyor, hiçbir bankacılık işlemi yapamıyorum.",şikayet
+236,"İtiraz ettiğim izinsiz harcama hızlıca incelendi, çok teşekkürler.",memnuniyet
+237,"Vergi kesintisi belgesini hemen indirdim, işlem sorunsuzdu.",memnuniyet
+238,Birikim hesabına otomatik aktarım çok düzenli çalışıyor.,memnuniyet
+239,Ticari EFT dosyasını toplu olarak sisteme nasıl yüklerim?,destek
+240,"Sesli ATM yönlendirmesi sayesinde işlemimi rahatça tamamladım, teşekkürler.",memnuniyet
+241,Geçerlilik süresi dolan kartın yenisi yanlış adrese gönderilmiş.,şikayet
+242,"Erişim şifresi ile kart şifresi aynı mı, bilgi verir misiniz?",destek
+243,Yeni banka kartı istemek için mevcut kartı iptal etmeli miyim?,destek
+244,Yenilenen kartı teslim aldıktan sonra ilk işlem nasıl yapılır?,destek
+245,Yatırım hesabı saklama ücretiyle ilgili bilgilendirme yapılmadı.,şikayet
+246,Şüpheli işlemi hemen fark edip kartı korumaya almanız güven verdi.,memnuniyet
+247,"Taksit kampanyası hangi sektörlerde geçerli, bilgi verir misiniz?",destek
+248,Görüntülü görüşmedeki görevli çok açıklayıcı ve nazikti.,memnuniyet
+249,Düzenli para gönderme talimatını nasıl iptal ederim?,destek
+250,Hesabımın aylık masrafını önceden nereden öğrenebilirim?,destek
+251,Yeni telefonuma uygulamayı kurunca cihaz eşleştirmesi nasıl yapılır?,destek
+252,"Sanal kart oluşturma işlemini birkaç dokunuşta tamamladım, harika.",memnuniyet
+253,"Son güncellemeden sonra menüler daha anlaşılır olmuş, elinize sağlık.",memnuniyet
+254,"Mobil bankacılık şifremi unuttum, nasıl yenileyebilirim?",destek
+255,FAST ve EFT arasındaki ücret farkını öğrenmek istiyorum.,destek
+256,Kredi kartım için harcama limiti uyarısı oluşturabiliyor muyum?,destek
+257,Kartın yurt dışı kullanımını yalnızca birkaç günlüğüne açabilir miyim?,destek
+258,"Günlük gelir gider özetini çok beğendim, bütçemi daha iyi görüyorum.",memnuniyet
+259,Ek hesap limitim düşürüldü ama uygulamada hâlâ eski rakam yazıyor.,şikayet
+260,QR ödeme limitini uygulamadan görebilir miyim?,destek
+261,"Restoranda ödediğim hesap iki ayrı harcama olarak görünüyor, bu nasıl iş?",şikayet
+262,Uluslararası transferin izleme numarası hangi dekontta yer alıyor?,destek
+263,Bakiye güncellemeleri anlık geldiği için içim rahat.,memnuniyet
+264,"ATM parayı yuttu ama hesabıma yatırılmış görünmüyor, şikâyetçiyim.",şikayet
+265,"Randevum saatinde başladı, işlemler gayet düzenli yürüdü.",memnuniyet
+266,"Yurt içi alışverişte kartım durduk yere reddedildi, çok zor durumda kaldım.",şikayet
+267,Görüntülü görüşmeyle hesap açılışı hangi saatlerde yapılıyor?,destek
+268,Çalışmayan ATM yüzünden acil nakit ihtiyacımı karşılayamadım.,şikayet
+269,"Kartımdan kesilen işlem tutarı fişte yazandan yüksek, açıklama bekliyorum.",şikayet
+270,"İşletme temsilcimiz sorularımıza hızlı dönüş yapıyor, memnunuz.",memnuniyet
+271,"Puanlarımı kasada sorunsuz kullandım, harika bir deneyimdi.",memnuniyet
+272,Toplu maaş ödeme ekranı muhasebe ekibimizin işini kolaylaştırdı.,memnuniyet
+273,"Müşteri hizmetlerini aradım, yarım saat beklettiniz ve çağrı koptu.",şikayet
+274,Bildirimleri istediğim işlemlere göre seçebilmek oldukça güzel.,memnuniyet
+275,Kredi kartı borcum için otomatik ödeme talimatı vermek istiyorum.,destek
+276,Kimlik doğrulama işlemini kaldığım yerden sürdürebilir miyim?,destek
+277,"Ticari EFT dosyam tek seferde işlendi, harika.",memnuniyet
+278,"ATM'den QR kodla para çekmek beklediğimden kolaydı, sevdim.",memnuniyet
+279,"Hesap hareketleri ekranı düzenli ve anlaşılır, işimi kolaylaştırıyor.",memnuniyet
+280,Vadeli mevduat faiz oranlarını karşılaştırabileceğim ekran var mı?,destek
+281,Vadeli hesap açmak için alt tutar şartı var mı?,destek
+282,"SWIFT dekontunu İngilizce indirebildim, teşekkürler.",memnuniyet
+283,"Otomatik kart ödemem tam gününde yapıldı, kafam rahat.",memnuniyet
+284,"Site aidatı talimatım bu ay hiç çalışmadı, açıklama yok.",şikayet
+285,IBAN'ımı tek dokunuşla kopyalamak küçük ama çok kullanışlı bir özellik.,memnuniyet
+286,"Vadesiz hesabın masrafları açıkça anlatıldı, şeffaflığı takdir ettim.",memnuniyet
+287,Kampanyaya katıldıktan sonra harcamalarımı nereden takip edeceğim?,destek
+288,Hesap açılışı sırasında uygulama hata verince başvuru tamamen silindi.,şikayet
+289,İşyeri komisyon oranımız haber verilmeden yükseltilmiş.,şikayet
+290,"EFT işlemi çok kolaydı, dekontu da anında indirebildim.",memnuniyet
+291,"Müşteri hizmetleri tüm aşamaları sabırla anlattı, teşekkür ediyorum.",memnuniyet
+292,Bankacılık bildirimlerini sadece belirli işlemler için açabiliyor muyum?,destek
+293,"İleri tarihli transfer talimatım tam saatinde gerçekleşti, memnunum.",memnuniyet
+294,Açtığım destek kaydı hiçbir açıklama olmadan kapatılmış.,şikayet
+295,"FAST limiti dolmadığı hâlde transferim reddediliyor, işlerim aksadı.",şikayet
+296,Para yatırdım ama hesapta görünmüyor; kimse net bir açıklama yapmıyor.,şikayet
+297,ATM kart şifresini mobil bankacılıktan değiştirebilir miyim?,destek
+298,"İhtiyaç kredisi başvurum kısa sürede sonuçlandı, çok memnun kaldım.",memnuniyet
+299,Kartımın internet alışverişi yetkisini geçici olarak kapatmak istiyorum.,destek
+300,Otomatik fatura talimatım olmasına rağmen elektrik faturam ödenmemiş.,şikayet
+301,Yüksek tutarlı işlemde yapılan ek doğrulama beni güvende hissettirdi.,memnuniyet
+302,Yatırım portföyümü tek ekranda izleyebilmek hoşuma gidiyor.,memnuniyet
+303,"Eski fatura dekontlarımı kolayca buldum, arşiv özelliği başarılı.",memnuniyet
+304,Döviz alım satım işlem saatleri hakkında bilgi alabilir miyim?,destek
+305,Yatırdığım nakdin hesaba geçiş süresini öğrenebilir miyim?,destek
+306,"Ara ödeme sonrası yeni planım hemen güncellendi, memnunum.",memnuniyet
+307,Otomatik fatura talimatını geçici olarak durdurmanın yolu var mı?,destek
+308,"Randevumu başka güne taşımak istiyorum, nereden yapılıyor?",destek
+309,Yeni müşteri başvurumun durumunu nereden sorgulayabilirim?,destek
+310,"Şubeye gittiğimde farklı, çağrı merkezinde farklı bilgi veriliyor.",şikayet
+311,Kredi kartı borcunu kapattım ama sistemde hâlâ borçlu görünüyorum.,şikayet
+312,"Bankamatikte işlem yarıda kaldı ve kartım içeride kaldı, yardım alamadım.",şikayet
+313,Hesap açarken vergi mukimliği bilgisi isteniyor mu?,destek
+314,Kredi yapılandırma başvurumun hiçbir gerekçe olmadan reddedilmesine kızgınım.,şikayet
+315,Euro hesabımdan iznim dışında TL karşılığı tahsilat yapılmış.,şikayet
+316,"Eski cihazımı erişim listesinden kolayca sildim, güvenlik ekranı başarılı.",memnuniyet
+317,Seyahat sırasında kart limitimi düşürmeniz ciddi sorun yarattı.,şikayet
+318,"Kart PIN değişikliği ATM'de sürekli başarısız oluyor, çözüm yok.",şikayet
+319,"Birikim hedefi özelliği tasarruf alışkanlığımı destekliyor, güzel düşünülmüş.",memnuniyet
+320,Elektrik faturam için otomatik ödeme talimatı nasıl verebilirim?,destek
+321,"Alıcı IBAN'ını doğru yazdım, transferim sürekli geri dönüyor.",şikayet
+322,Kapanmış hesap için yeniden bildirim ve borç çıkması ciddi bir hata.,şikayet
+323,Kartsız para çekme kodu kaç dakika geçerli oluyor?,destek
+324,İletişim merkezinden aynı gün geri dönüş almak çok sevindiriciydi.,memnuniyet
+325,"Para yatırma işlemim hemen hesaba geçti, hizmetiniz çok iyi.",memnuniyet
+326,Şubedeki görevlinin ilgisiz yaklaşımı bankanızdan soğuttu.,şikayet
+327,SWIFT masrafı ekranda belirtilenden fazla çıktı; açıklama istiyorum.,şikayet
+328,Faiz oranı onay ekranında farklıydı; hesap açılınca değişmiş görünüyor.,şikayet
+329,Aradığım dekontu arşivden indiremedim; işimi aksattınız.,şikayet
+330,Konut kredisi dosya masrafı hakkında önceden bilgi verilmemesi hoş değil.,şikayet
+331,Konut kredisi için ekspertiz süreci ne kadar sürüyor?,destek
+332,Kredi kapatma talebim alınmasına rağmen sonraki taksit tahsil edilmiş.,şikayet
+333,"Dijital müşteri olma süreci evden hızlıca tamamlandı, teşekkürler.",memnuniyet
+334,Şubedeki yoğunluk bilgisi yanlış olduğu için boşuna bekledim.,şikayet
+335,Hesabım için işlem uyarılarını SMS olarak alabilir miyim?,destek
+336,Kartımı geçici olarak dondurup açabilmek büyük güven sağlıyor.,memnuniyet
+337,Görüntülü müşteri olma deneyimi düşündüğümden kolay çıktı.,memnuniyet
+338,"Uluslararası transferde alıcı bilgileri yanlış iletilmiş, para geri dönmüş.",şikayet
+339,Bana ait olmayan harcama itirazım gerekçesiz reddedilmiş.,şikayet
+340,"Kredi başvurum haftalarca bekletildi, hâlâ bir yanıt verilmedi.",şikayet
+341,Aidat koşullarının baştan net anlatılması bana güven verdi.,memnuniyet
+342,"Hesap dökümünü saniyeler içinde alabildim, gerçekten pratik.",memnuniyet
+343,"Markette temassız ödeme çok hızlı gerçekleşti, kartı kullanmak keyifli.",memnuniyet
+344,Yeni müşteri kampanyası vaatleri hesabımda uygulanmadı.,şikayet
+345,"Temsilci beni doğru birime hızlıca aktardı, işim hemen halledildi.",memnuniyet
+346,"SWIFT gönderimim iki haftadır yolda, takibini yapamıyorsunuz.",şikayet
+347,Hesap dökümünü İngilizce olarak almanın bir yolu var mı?,destek
+348,Kart kampanyalarını tek ekrandan görmek oldukça kullanışlı.,memnuniyet
+349,"Geri arama sözü verildi ama kimse dönmedi, artık yeter.",şikayet
+350,Ticari hesap açmak için şirketten hangi evraklar isteniyor?,destek
+351,İletişim tercihlerimi tek menüden yönetmek hoşuma gitti.,memnuniyet
+352,Günlük transfer limitim iznim olmadan azaltılmış.,şikayet
+353,Kapatmak istediğim ürün için tekrar tekrar aynı evrakı istiyorsunuz.,şikayet
+354,Kimlik doğrulama aşamaları net olduğu için hiç zorlanmadım.,memnuniyet
+355,"Alışverişte vaat edilen nakit iade yatmadı, sürekli erteleniyor.",şikayet
+356,"Para yatırma haznesi açılmadı, cihazın önünde uzun süre bekledim.",şikayet
+357,Vergi kesintisi belgesini mobil bankacılıktan indirebilir miyim?,destek
+358,Fatura hatırlatma bildirimleri sayesinde ödemelerimi aksatmıyorum.,memnuniyet
+359,Dijital müşteri olma sürecinde görüntülü görüşmeye nasıl bağlanılır?,destek
+360,Kayıtlı alıcı listesine yeni IBAN nasıl ekleniyor?,destek
+361,Onayım olmadan tanımlanan alıcı hesabın neden kaldırılmadığını anlamıyorum.,şikayet
+362,"Şüpheli bağlantı bildirimi için hızlı yanıt aldım, takdir ediyorum.",memnuniyet
+363,Ödeme planım yanlış düzenlenmiş; bunu kaç kez bildirmem gerekiyor?,şikayet
+364,Banka bildirimleri gecikmeli geldiğinden hesabımı takip edemiyorum.,şikayet
+365,Ek hesap başvurusu hangi kanallardan yapılabiliyor?,destek
+366,"Biyometrik giriş dün çalışıyordu, bugün sebepsiz yere devre dışı kalmış.",şikayet
+367,Kredi kartımın ekstre kesim tarihini nereden değiştiriyorum?,destek
+368,Bankamatik temizdi ve ekran yönlendirmeleri anlaşılırdı.,memnuniyet
+369,Maaş hesabımı başka şubeye taşımak mümkün mü?,destek
+370,Transfer ekranında işlem özetinin gösterilmesini çok beğendim.,memnuniyet
+371,"Dijital müşteri olma süreci çok fazla kez başa sardı, usandım.",şikayet
+372,Mobil hat faturasını anında ödeyebilmek çok pratik.,memnuniyet
+373,EFT için alınan yüksek işlem ücreti hiç makul değil.,şikayet
+374,Online ödemem başarılı gözüküyor fakat iş yeri tahsilat olmadığını söylüyor.,şikayet
+375,Temassız ödeme limitimi uygulamadan değiştirebilir miyim?,destek
+376,"Birikim hedefi özelliği düzgün çalışmıyor, kayıtlarım silindi.",şikayet
+377,Mobil uygulamadaki yazı boyutu ayarı çok işime yaradı.,memnuniyet
+378,Yatırım fonu alış emrinin valör tarihi nerede yazıyor?,destek
+379,İleri tarihli para transferi talimatı nereden oluşturuluyor?,destek
+380,"Vadeli hesap faizinin beklediğim gibi işlemesine sevindim, teşekkürler.",memnuniyet
+381,Havale için işlem adımlarının az olması çok hoşuma gitti.,memnuniyet
+382,"Kartım ATM'de kalınca ekip hemen yardımcı oldu, çok teşekkür ederim.",memnuniyet
+383,"FAST transferim karşı tarafa geçmedi, para da hesabıma dönmedi.",şikayet
+384,Güncellemeden sonra hesap hareketlerim açılmıyor; sorun bir türlü bitmedi.,şikayet
+385,Kartımın son kullanım tarihi yaklaşınca yenisi otomatik gelir mi?,destek
+386,E-posta ile gönderilen ekstreyi şifreli PDF olarak almak mümkün mü?,destek
+387,"Fon satışı yaptım, valör doldu ama tutar hâlâ hesabıma gelmedi.",şikayet
+388,"POS ödemem sorunsuz geçti, işlem bildirimi de hemen geldi.",memnuniyet
+389,IBAN bilgilerimi uygulamada hangi menüde bulurum?,destek
+390,"Arkadaş davet ödülü hızlıca tanımlandı, sağ olun.",memnuniyet
+391,"Havale yaparken uygulama dondu, para çekildi ama dekont oluşmadı.",şikayet
+392,Nakit iade tutarını hesaplama yöntemi nedir?,destek
+393,"Kredi ödeme planı tüm ayrıntılarıyla gösterildi, anlaşılması kolaydı.",memnuniyet
+394,"Nakit iade hesabıma tam ve zamanında geçti, çok memnunum.",memnuniyet
+395,Kart şifresini uygulamadan değiştirmek çok pratikmiş.,memnuniyet
+396,Yeni müşterilere özel nakit iade kampanyası hangi işlemleri kapsıyor?,destek
+397,İşletme hesabıma gelen POS ödemeleri söz verilen günde geçmiyor.,şikayet
+398,Toplu maaş ödemesi için örnek dosya formatını paylaşır mısınız?,destek
+399,"Tedarikçiye gönderdiğim ticari EFT ertelendi, işlerim aksadı.",şikayet
+400,Her oturumda tekrar tekrar kimlik doğrulama istenmesi çok can sıkıcı.,şikayet
+401,Engelli erişimine uygun şube bulamamak beni her defasında zorluyor.,şikayet
+402,"Ekstre kesim tarihini uygulamadan kolayca değiştirdim, harika.",memnuniyet
+403,İptal ettiğim otomatik ödeme talimatı bu ay yine çalışmış.,şikayet
+404,"Sanal POS kesintileri raporla uyuşmuyor, mutabakat yapamıyoruz.",şikayet
+405,"Döviz işlem tutarı harcamadan önce net göründü, bunu sevdim.",memnuniyet
+406,Kredi kartı limit artışı talebini uygulamadan iletebilir miyim?,destek
+407,Ekstre indirimi tanımlanmadı; müşteri hizmetleri ilgilenmedi.,şikayet
+408,Kart borcumu ödediğim hâlde gecikme faizi uygulanmış.,şikayet
+409,"Otomatik ödeme talimatı oluşturmak çok kolaymış, memnun kaldım.",memnuniyet
+410,"FAST ile gönderdiğim para saniyeler içinde ulaştı, süper hizmet.",memnuniyet
+411,"ATM'de yatırdığım banknotlar sayılmadı, tutarı eksik kaydetmişsiniz.",şikayet
+412,"FAST işlem limiti günlük mü, işlem başına mı geçerli?",destek
+413,Yüksek tutarlı alışverişte ek güvenlik onayı olması hoşuma gitti.,memnuniyet
+414,İşlem arama özelliği sayesinde eski harcamalarımı hemen buldum.,memnuniyet
+415,Uygulamadan hesap adı değiştirme özelliği var mı?,destek
+416,"Güvenlik ekibinizle görüşmem çok açıklayıcıydı, teşekkür ederim.",memnuniyet
+417,"Mobilde bakiye yanlış görünmesine ilişkin kayıt açtım, sonuç alamadım.",şikayet
+418,"Yurt dışındayken kartım sebepsiz bloke oldu, mağazada mahsur kaldım.",şikayet
+419,"Vergi ödememi birkaç dakikada tamamladım, uygulama çok iyi.",memnuniyet
+420,Dün gönderdiğim para hâlâ ulaşmadı; işlem durumunu kimse bilmiyor.,şikayet
+421,POS gün sonu raporunu otomatik e-postaya gönderebilir miyiz?,destek
+422,Yurt dışındaki ATM'den nakit çekmek sorunsuz gerçekleşti.,memnuniyet
+423,Yabancı para hesaplarını aynı ekranda görmek büyük rahatlık.,memnuniyet
+424,Müşteri hizmetlerine yazılı talep bırakmanın yolu nedir?,destek
+425,"Faiz getirisi hesaplayıcısını faydalı buldum, kararımı kolaylaştırdı.",memnuniyet
+426,Promosyon tutarının tam tarihinde yatırılması çok iyi.,memnuniyet
+427,Yabancı siteden yaptığım alışveriş için çift kur farkı yansımış.,şikayet
+428,Mevduat hesabımı vade sonunda otomatik yenilemek için ne yapmalıyım?,destek
+429,Telefon görüşmesinde konuyu tekrar anlatmadan çözebilmek çok iyiydi.,memnuniyet
+430,"Ekstrede bana ait olmayan bir taksit var, aylarca çözülmedi.",şikayet
+431,Uygulamanız transfer sırasında hata verip işlemi tekrar başlatıyor.,şikayet
+432,"Yanlış tutarlı transferimi kolayca iptal edebildim, teşekkürler.",memnuniyet
+433,Dövizli kredi kartı harcamaları hangi kur üzerinden hesaplanıyor?,destek
+434,"Kredi borcum bittikten sonra teminat kaydı kaldırılmadı, işlerim aksıyor.",şikayet
+435,"Nakit çekme süreci seri ve sorunsuzdu, memnun kaldım.",memnuniyet
+436,"Puanlarım son kullanım tarihi gelmeden silinmiş, kabul etmiyorum.",şikayet
+437,"Şubedeki ekip ilgili ve profesyoneldi, hepsine teşekkürler.",memnuniyet
+438,Yurt dışı ATM nakit çekme limitini nereden görüyorum?,destek
+439,Döviz hesabından TL hesabına dönüşüm işlemini nasıl yaparım?,destek
+440,Kurumsal internet şubesinde yetki tanımları kendiliğinden sıfırlanmış.,şikayet
+441,Bankamatikte işlem sonunda net bir özet sunulması hoşuma gitti.,memnuniyet
+442,"Hesabıma izinsiz giriş uyarısı geldi, destek hattına ulaşamadım.",şikayet
+443,"Ortak ATM masrafı işlem öncesinde açıkça gösterilmedi, buna itirazım var.",şikayet
+444,Kredi yapılandırması için başvuru kanallarını paylaşır mısınız?,destek
+445,İnternet alışverişini iptal etmeme rağmen kartıma iade yapılmadı.,şikayet
+446,Şüpheli işlemler için açtığım dosyadan hiçbir haber alamadım.,şikayet
+447,"Günlük işlem limitlerimi rahatça yönetebiliyorum, çok iyi.",memnuniyet
+448,"Altın alım emrim gecikmeli gerçekleşti, zarar ettim.",şikayet
+449,Şube yoğunluk durumunu önceden gösteren bir ekranınız var mı?,destek
+450,Telefon numarası değişikliği için ATM'yi kullanabilir miyim?,destek
+451,Site aidatını kayıtlı ödeme olarak eklemek için ne yapmalıyım?,destek
+452,Transfer açıklamasını sonradan düzenleyebilir miyim?,destek
+453,"Maaş hesabımın taşınması sorunsuz tamamlandı, emeğinize sağlık.",memnuniyet
+454,Kart yenileme için ücret alınmasına itiraz ediyorum.,şikayet
+455,Yurtdışı ATM çekiminden kat kat komisyon kesilmiş.,şikayet
+456,Reklam SMS iznini kapatmak için hangi adımları izlemeliyim?,destek
+457,"Otomatik ödeme iptalini de rahatça yapabildim, süreç açık.",memnuniyet
+458,Güvenlik nedeniyle kapatılan hesabımı günlerdir açmıyorsunuz.,şikayet
+459,İşlem için şubeye giderken hangi belgeleri getirmeliyim?,destek
+460,"Erken kapatma hesabı ekranda şeffaf biçimde çıktı, teşekkürler.",memnuniyet
+461,Faturaların tek ekranda listelenmesi büyük kolaylık sağlıyor.,memnuniyet
+462,ATM'den döviz çekme imkânı hangi şubelerde var?,destek
+463,Kart işlem itirazı oluşturmak için gerekli belgeler nelerdir?,destek
+464,Müşteri temsilcisine bağlanmak için hangi menüyü seçmeliyim?,destek
+465,İleri tarihli transferi iptal ettim fakat para yine gönderilmiş.,şikayet
+466,"Giriş onay bildirimi telefonuma düşmüyor, bütün işlerim durdu.",şikayet
+467,Vergi kesintisi belgesi sistemde eksik görünüyor.,şikayet
+468,İşlem geçmişini telefona Excel olarak kaydedebilir miyim?,destek
+469,Aynı ay iki farklı kampanyadan faydalanabilir miyim?,destek
+470,Sadece sanal kartla çalışabilecek bir kredi kartı alabiliyor muyum?,destek
+471,Mobil bankacılık tasarımı sade olduğu için aradığımı çabuk buluyorum.,memnuniyet
+472,"Kullanmadığım hesabı mobil bankacılıktan kapatmak istiyorum, yolu nedir?",destek
+473,"Hesap açılışını evden tamamladım, süreç çok rahattı.",memnuniyet
+474,Başvuru takibini uygulamadan yapmak bana zaman kazandırdı.,memnuniyet
+475,Kişisel bilgi güncellemem için şubeye gitmem gerektiği sonradan söylendi.,şikayet
+476,Hesabımı kapattığım hâlde ücret tahsil etmeye devam ediyorsunuz.,şikayet
+477,"Şifreyi doğru girmeme rağmen hesabım sürekli kilitleniyor, yoruldum.",şikayet
+478,Temsilci görüşmeyi açıklama yapmadan sonlandırdı; çok kaba bir tavırdı.,şikayet
+479,"Döviz transferinde belirtilenden fazla komisyon ödedim, iade istiyorum.",şikayet
+480,Kart hareketlerini anında görmek harcamalarımı takip etmemi kolaylaştırdı.,memnuniyet
+481,Altın hesabı işlemim tamamlanmadığı hâlde param bloke edildi.,şikayet
+482,Mobil bankacılıkta oturum süresi ayarlanabiliyor mu?,destek
+483,İletişim iznimi kaldırdım ama reklam mesajları gelmeye devam ediyor.,şikayet
+484,Sanal kart oluşturma adımlarını paylaşabilir misiniz?,destek
+485,Kredi hesaplamasında gösterilen faizle sözleşmedeki faiz aynı değil.,şikayet
+486,Ticari hesap hareketlerinde eksik kayıt bulunması ciddi sıkıntı.,şikayet
+487,Ek hesap limitimin ne kadarını kullandığımı nereden izlerim?,destek
+488,"Toplu maaş ödemesi dosyam işlenmedi, çalışanlarım mağdur oldu.",şikayet
+489,"Yeni kartım güvenli şekilde teslim edildi, süreçten memnun kaldım.",memnuniyet
+490,Şirket hesaplarına muhasebeci için sadece görüntüleme yetkisi verilebilir mi?,destek
+491,Şüpheli bağlantı bildirimi için bankanın resmi kanalı hangisi?,destek
+492,"Döviz alım satım ekranı anlaşılır, işlemlerim kolaylaştı.",memnuniyet
+493,"Parmak iziyle giriş çok pratik, uygulamayı beğeniyorum.",memnuniyet
+494,Hesap ekstresindeki açıklamasız kesintiler yüzünden bankanıza güvenemiyorum.,şikayet
+495,Uygulama giriş onayı için bildirimler nereden açılıyor?,destek
+496,Kampanyaya katılımın tek tuşla yapılabilmesi güzel düşünülmüş.,memnuniyet
+497,Kartla yapılan bekleyen provizyonlar ne zaman kesinleşiyor?,destek
+498,Bir otomatik ödeme talimatını başka hesabıma taşıyabilir miyim?,destek
+499,"Vergi ödemesi sırasında sistem hata verdi, tutar hesabımdan düştü.",şikayet
+500,Vergi borcumu kredi kartıyla ödeyebilir miyim?,destek
